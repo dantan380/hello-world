@@ -1,1 +1,2 @@
 "Hello, this is some text"
+"This is a second line of text"
